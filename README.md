@@ -1,14 +1,14 @@
-## Welcome to the Back To Sleep App Support Page
+## Welcome to the Back To Sleep App Support Page & Privacy policy
 
 On this page we'll publish FAQ sent to us via this page.
 
-### Contact
-
-Email us at gustav.wiel@gmail.com. All questions and answers will be anonymized and published on this page.
-
 ### Feedback
 
-We are happy to receieve your feedback at gustav.wiel@gmail.com
+Email us at backtosleepapp@gmail.com. All questions, along with the answer answer, will be anonymized and published on this page.
+
+### Privacy policy
+
+We do not collect any data from this app.
 
 # FAQ
 
